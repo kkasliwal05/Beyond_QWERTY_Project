@@ -19,7 +19,8 @@
 ## 🔗 Project Flowchart  
 The system architecture and workflow are illustrated in the **Lucidchart diagram** linked below:  
 
-[![View Flowchart](https://lucid.app/lucidchart/81d25647-f771-42f1-9209-ea26bec88060/edit?viewport_loc=242%2C-715%2C3923%2C1816%2C0_0&invitationId=inv_bc46ed9a-30e4-45b7-a35e-9db0da6094df)  
+[![View Flowchart]
+(https://lucid.app/lucidchart/81d25647-f771-42f1-9209-ea26bec88060/edit?viewport_loc=242%2C-715%2C3923%2C1816%2C0_0&invitationId=inv_bc46ed9a-30e4-45b7-a35e-9db0da6094df)  
 
 
 ## 📄 Research Documentation  
